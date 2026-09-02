@@ -20,3 +20,6 @@ Project link : https://hackpad.hackclub.com/guide
 - 4x M3x10mm screws
 
 ## Photos :
+![Starpad Image](Photo/schematics.png)
+![Starpad Image](Photo/PCB.png)
+![Starpad Image](Photo/3d.png)
